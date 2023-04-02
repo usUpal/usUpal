@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Udyan Saha Upal</h1>
 <h3 align="center">Recent graduate with a passion for frontend development. Proficient in ReactJS, NextJS & related frontend tools. Also have some knowledge of Backend too. Committed to delivering user-friendly interfaces and staying up-to-date with industry trends. Eager to learn and contribute to the field </h3>
-<img align="right" alt="Coding" width="600" src="./coding.gif">
+<p><img align="right" alt="Coding" width="600" src="./coding.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usupal&label=Profile%20views&color=0e75b6&style=flat" alt="usupal" /> </p>
 
