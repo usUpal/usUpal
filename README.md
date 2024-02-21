@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Udyan Saha Upal</h1>
-<article align="center">Passionate front-end developer who recently graduated. Proficient with comparable front-end tools such as NextJS and ReactJS. Possess some understanding of the backend as well. My preferred stack is MERN. Devoted to providing user-friendly interfaces and remaining current with trends in the market. Eager to learn and contribute to the field.</article>
+<article align="center">Enthusiastic backend developer with a fresh graduation and a strong foundation in frontend development. Skilled in popular frontend technologies like Next.js and React.js, with a growing proficiency in backend concepts. Experienced in the MERN stack and committed to crafting intuitive user interfaces while staying abreast of industry trends. Motivated to expand knowledge and make meaningful contributions to the backend development landscape..</article>
 <p><img align="center" alt="Coding" width="800" src="./coding.gif"></p>
 
 
