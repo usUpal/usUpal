@@ -1,15 +1,126 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Udyan Saha Upal</h1>
-<article align="center">Enthusiastic full-stack developer with expertise in Next.js and MERN stack, building intuitive and scalable applications. Skilled in both frontend and backend development, with hands-on experience in Docker, CI/CD, and cloud-based deployments. Passionate about crafting seamless user experiences while optimizing backend performance. Committed to continuous learning and staying ahead of industry trends.</article>
-<p><img align="center" alt="Coding" width="800" src="./coding.gif"></p>
+<h1>Udyan Saha Upal</h1>
+<p><em>Software Engineer &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Systems & Cloud</em></p>
 
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usupal&label=Profile%20views&color=0e75b6&style=flat" alt="usupal" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C83FD&center=true&vCenter=true&width=560&lines=4%2B+years+in+Python+%7C+JS+%7C+TypeScript+%7C+Rust+%7C+Go;Building+scalable+APIs+%26+distributed+systems;AWS+%7C+Azure+%7C+GCP+%7C+Kubernetes+%7C+Docker;Open+to+freelance+%E2%86%92+pickybyte.com)](https://git.io/typing-svg)
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=usupal&label=Profile+Views&color=7C83FD&style=flat-square)
 
+</div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usupal&" alt="usupal" /></div>
+---
 
+## 👨‍💻 About Me
+
+Software engineer based in **Dhaka, Bangladesh** with **4+ years of experience** designing and shipping production-grade systems — from REST & GraphQL APIs to distributed cloud infrastructure. I work across the full stack with a strong emphasis on backend architecture, performance, and reliability.
+
+- ⚙️ Fluent in **Python, JavaScript, TypeScript, Rust, and Go**
+- ☁️ Deployed on **AWS, Azure, and Google Cloud** — comfortable across all three
+- 📱 Currently building an **iOS app** with React Native (New Architecture / JSI)
+- 🤖 Integrating **LLM pipelines** and AI agents into real products
+- 🌐 Freelancing under **[PickyByte](https://pickybyte.com)**
+- 🎯 Focused on building systems that are fast, maintainable, and built to last
+
+---
+
+## 🤖 AI-Augmented Development
+
+I build with AI natively — coding agents and frontier LLMs are part of my daily workflow, not just tools I've tried.
+
+### Coding Agents
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=terminal&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes_Coding_Agent-FF6B35?style=flat-square&logo=rocket&logoColor=white)
+
+### LLMs for Coding
+
+![Claude Opus 4](https://img.shields.io/badge/Claude_Opus_4-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Opus 4.7](https://img.shields.io/badge/Claude_Opus_4.7-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![GPT-5.5](https://img.shields.io/badge/GPT--5.5-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### DevOps & Tooling
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=usupal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usupal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usupal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-udyanupal.site-7C83FD?style=flat-square&logo=vercel&logoColor=white)](https://udyanupal.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/usupal)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ☕ in Dhaka, Bangladesh</sub>
+</div>
